@@ -12,3 +12,16 @@ This is a simple run-down over my use of **basic syntaxes** in hopes of familiar
 | Table | Yes |
 | Ordered List | Yes |
 | Link | No |
+| Strikethrough | Yes |
+### The Order I Exercised each Syntax
+<ol>
+  <li>Heading Level #1</li>
+  <li>Heading Level #2</li>
+  <li>Table</li>
+  <li>Bold</li>
+  <li>Heading Level #3</li>
+  <li>Ordered List</li>
+  <li>~Italics~</li>
+  <li>~Link~</li>
+  <li>Strikethrough</li>
+</ol>
