@@ -12,7 +12,7 @@ This is a simple run-down over my use of **basic syntaxes** in hopes of familiar
 | Table | Yes |
 | Ordered List | Yes |
 | Link | No |
-| Strikethrough | Yes |
+| Strikethrough | No |
 ### The Order I Exercised each Syntax
 <ol>
   <li>Heading Level #1</li>
@@ -21,5 +21,4 @@ This is a simple run-down over my use of **basic syntaxes** in hopes of familiar
   <li>Bold</li>
   <li>Heading Level #3</li>
   <li>Ordered List</li>
-  <li>Strikethrough</li>
 </ol>
