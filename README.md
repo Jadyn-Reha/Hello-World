@@ -21,7 +21,7 @@ This is a simple run-down over my use of **basic syntaxes** in hopes of familiar
   <li>Bold</li>
   <li>Heading Level #3</li>
   <li>Ordered List</li>
-  <li>~Italics~</li>
-  <li>~Link~</li>
+  <li>~~Italics~~</li>
+  <li>~~Link~~</li>
   <li>Strikethrough</li>
 </ol>
